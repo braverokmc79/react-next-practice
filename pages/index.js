@@ -23,7 +23,7 @@ export default function Home() {
         <title>My Blog</title>
         <meta keyword="My Blog Powerd by Next js" />
       </Head>
-      <h1>Welcome to My Blog -freshMan</h1>
+      <h1>Welcome to My Blog -freshMan2</h1>
     </div >
   )
 }
