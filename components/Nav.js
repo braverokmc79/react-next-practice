@@ -10,7 +10,6 @@ const Nav = () => {
                         Home
                     </Link>
                 </li>
-
                 <li>
                     <Link href="/photos">
                         photos
